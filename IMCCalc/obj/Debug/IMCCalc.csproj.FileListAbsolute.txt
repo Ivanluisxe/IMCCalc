@@ -1,0 +1,11 @@
+C:\Users\ivan.lojunior\source\repos\IMCCalc\IMCCalc\bin\Debug\IMCCalc.exe.config
+C:\Users\ivan.lojunior\source\repos\IMCCalc\IMCCalc\bin\Debug\IMCCalc.exe
+C:\Users\ivan.lojunior\source\repos\IMCCalc\IMCCalc\bin\Debug\IMCCalc.pdb
+C:\Users\ivan.lojunior\source\repos\IMCCalc\IMCCalc\obj\Debug\IMCCalc.csproj.AssemblyReference.cache
+C:\Users\ivan.lojunior\source\repos\IMCCalc\IMCCalc\obj\Debug\IMCCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivan.lojunior\source\repos\IMCCalc\IMCCalc\obj\Debug\IMCCalc.Form1.resources
+C:\Users\ivan.lojunior\source\repos\IMCCalc\IMCCalc\obj\Debug\IMCCalc.Properties.Resources.resources
+C:\Users\ivan.lojunior\source\repos\IMCCalc\IMCCalc\obj\Debug\IMCCalc.csproj.GenerateResource.cache
+C:\Users\ivan.lojunior\source\repos\IMCCalc\IMCCalc\obj\Debug\IMCCalc.csproj.CoreCompileInputs.cache
+C:\Users\ivan.lojunior\source\repos\IMCCalc\IMCCalc\obj\Debug\IMCCalc.exe
+C:\Users\ivan.lojunior\source\repos\IMCCalc\IMCCalc\obj\Debug\IMCCalc.pdb
